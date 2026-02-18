@@ -1,5 +1,5 @@
 # 🔢 Calculadora Web  
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Fecha:** 18/02/2026  
 
 ---
@@ -120,6 +120,28 @@ Este proyecto está pensado para:
 - Implementar modo oscuro.
 - Convertirla en calculadora científica.
 - Adaptarla como aplicación móvil.
+
+---
+
+## 📝 Tareas pendientes (To-Do)
+
+- [ ] Añadir validaciones visuales más avanzadas.
+- [ ] Implementar historial descargable en PDF.
+- [ ] Agregar soporte para teclado numérico completo.
+- [ ] Optimizar accesibilidad (ARIA).
+- [ ] Internacionalizar la aplicación (multi-idioma).
+- [ ] Añadir pruebas automatizadas.
+- [ ] Publicar versión online en GitHub Pages.
+
+---
+
+## 🖼️ Referencia histórica: Microprocesador 6502
+
+A modo educativo, incluimos una imagen del histórico microprocesador **MOS Technology 6502**, uno de los chips más influyentes en la historia de la informática, utilizado en sistemas como el Apple II y el Commodore 64.
+
+![Microprocesador MOS 6502](https://upload.wikimedia.org/wikipedia/commons/6/6e/MOS_Technology_6502.jpg)
+
+Este componente representa los inicios de la computación personal y sirve como inspiración para comprender la evolución del hardware hasta las aplicaciones web actuales.
 
 ---
 
